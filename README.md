@@ -1,9 +1,18 @@
+<img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/preview.png">
 ### Hi all, I'm Malik 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p>
 
 ## I'm a Frontend Developer!
 
 - 📍 I’m from Kyrgyzstan (Karakol)
-- 💻 1.5 years experience in Information Technology
+- ✍ You can find my projects here [portfolio]
+- 🔭 I’m currently working for myself.
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about Javascript or any tech related stuff.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I pull up on the bar over 30
 
 ### 🤝 Connect with me:
 

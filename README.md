@@ -1,4 +1,5 @@
 <img src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/banner.jpg">
+
 ### Hi all, I'm Malik 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p>
@@ -48,23 +49,9 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
 <br />
-<br />
----
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=malikimansaparov&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikimansaparov" />
-
-</details>
-
+<img height="160em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=malikimansaparov&theme=radical&show_icons=true" />
+<img height="160em" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malikimansaparov&theme=radical&layout=compact" />
 
 [telegram]: https://t.me/Egemberdiev7
 [instagram]: https://www.instagram.com/imansaparov7_99

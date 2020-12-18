@@ -6,7 +6,6 @@
 
 ## I'm a Frontend Developer!
 
-- 📍 I’m from Kyrgyzstan (Karakol)
 - ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source

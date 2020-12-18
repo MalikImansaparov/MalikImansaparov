@@ -7,7 +7,6 @@
 
 - 📍 I’m from Kyrgyzstan (Karakol)
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working for myself.
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Javascript or any tech related stuff.

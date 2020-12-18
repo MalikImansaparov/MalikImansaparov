@@ -1,4 +1,5 @@
-
+<br />
+<br />
 <img align="right"  src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/banner.jpg"
  width="550" height="280" />
 
@@ -24,7 +25,6 @@
 [<img align="left" alt="malik | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="malik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
 
----
 
 ### 💻 Tech Stack:
 

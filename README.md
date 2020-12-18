@@ -1,4 +1,4 @@
-<img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/preview.png">
+<img src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/IMG-20201212-WA0003.jpg">
 ### Hi all, I'm Malik 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p>

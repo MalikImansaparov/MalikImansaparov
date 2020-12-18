@@ -1,6 +1,6 @@
 
 <img align="right"  src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/banner.jpg"
- width="500" height="320" />
+ width="550" height="280" />
 
 ### Hi all, I'm Malik 👋
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/banner.jpg" width="800"   height="250">
+<img src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/banner.jpg" width="800"   height="230">
 
 ### Hi all, I'm Malik 👋
 

@@ -9,7 +9,6 @@
 - ✍ I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Javascript or any tech related stuff.
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I pull up on the bar over 30
 
 ### 🤝 Connect with me:

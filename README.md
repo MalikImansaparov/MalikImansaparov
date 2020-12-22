@@ -6,7 +6,7 @@
 
 ## I'm a Frontend Developer!
 
-- ✍ I’m currently learning React Native
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Javascript or any tech related stuff.
 - ⚡ Fun fact: I pull up on the bar over 30
@@ -19,8 +19,7 @@
 [<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="malik | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="malik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
-
-
+<br/>
 ### 💻 Tech Stack:
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;

@@ -1,15 +1,12 @@
 <img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/banner.gif" 
  width="500" height="320" />
-
-
 ### Hi all, I'm Malik 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p>
 
 ## I'm a Frontend Developer!
 
-- ✍ You can find my projects here [portfolio]
-- 🌱 I’m currently learning React Native
+- ✍ I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Javascript or any tech related stuff.
 - 😄 Pronouns: He/His

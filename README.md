@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/banner.gif" 
+<img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
  width="500" height="320" />
 ### Hi all, I'm Malik 👋
 

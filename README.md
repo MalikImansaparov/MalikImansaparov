@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/banner.jpg" 
+<img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/banner.gif" 
  width="500" height="320" />
 
 

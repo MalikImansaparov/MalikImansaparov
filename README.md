@@ -48,7 +48,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=chrome)&nbsp;
+![Google-Chrome](https://img.shields.io/badge/-Google-Chrome-333333?style=flat&logo=google-chrome)&nbsp;
 
 <br />
 

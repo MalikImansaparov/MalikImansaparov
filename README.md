@@ -33,10 +33,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 <!---![StyledComponetns](https://img.shields.io/badge/-StyledComponetns-333333?style=flat&logo=StyledComponetns)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=C21325)&nbsp;-->
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
 <br />
 
@@ -48,7 +48,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Chrome](https://img.shields.io/badge/-GoogleChrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp;
+![EsLint](https://img.shields.io/badge/-EsLint-333333?style=flat&logo=eslint)&nbsp;
+![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp;
 
 <br />
 

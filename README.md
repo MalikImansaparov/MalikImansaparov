@@ -50,7 +50,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![EsLint](https://img.shields.io/badge/-EsLint-333333?style=flat&logo=eslint)&nbsp;
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp;
-![DevTools](https://img.shields.io/badge/-DevTools-333333?style=flat&logo=devtools)&nbsp;
+![DevTools](https://img.shields.io/badge/-DevTools-333333?style=flat&logo=dev-tools)&nbsp;
 
 <br />
 

@@ -6,7 +6,7 @@
 
 ## I'm a Frontend Developer!
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Javascript or any tech related stuff.
 - ⚡ Fun fact: I pull up on the bar over 30

@@ -2,7 +2,7 @@
  width="480" height="320" />
 ### Hi all, I'm Malik 👋
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> --!>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
 
 ## I'm a Frontend Developer!
 

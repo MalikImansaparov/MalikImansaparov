@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
  width="480" height="320" />
-### Hi all, I'm Malik 👋
+### Hi , I'm Malik 👋
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
 

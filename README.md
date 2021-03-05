@@ -1,3 +1,5 @@
+![avatar](https://user-images.githubusercontent.com/50579392/110145693-e9f3c200-7e03-11eb-8484-eeb56300e18c.jpg)
+[<img align="left" alt="img" width="130" height="145"//>][avatar]
 <img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
  width="480" height="320" />
 ### Hi, I'm Malik 👋

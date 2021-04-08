@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Javascript or any tech related stuff
 - ⚡ Fun fact: I’m a blind ten-digit printer
-- 📄 https://malikimansaparov.github.io/rsschool-cv/
+
 ### 🤝 Connect with me:
 
 [<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

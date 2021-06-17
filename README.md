@@ -1,4 +1,4 @@
-
+<!--  -->
 <img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
  width="480" height="320" />
 ### Hi, I'm Malik 👋
@@ -54,8 +54,8 @@
 
 <br />
 
-<img height="160em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=malikimansaparov&theme=radical&show_icons=true" />
-<img height="160em" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malikimansaparov&theme=radical&layout=compact" />
+<!-- <img height="160em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=malikimansaparov&theme=radical&show_icons=true" /> -->
+<img height="160em" align="left" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malikimansaparov&theme=radical&layout=compact" />
 
 [telegram]: https://t.me/Egemberdiev7
 [instagram]: https://www.instagram.com/imansaparov7_99

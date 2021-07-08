@@ -51,7 +51,7 @@
 ![EsLint](https://img.shields.io/badge/-EsLint-333333?style=flat&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)&nbsp;
 ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=ligthblue)&nbsp;
-![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=vscode&logoColor=ligthblue)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode&logoColor=ligthblue)&nbsp;
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp;
 
 <br />

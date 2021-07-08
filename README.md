@@ -43,13 +43,15 @@
 
 ### 🛠 Tools:
 
-![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=ligthblue)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)&nbsp;
 ![EsLint](https://img.shields.io/badge/-EsLint-333333?style=flat&logo=eslint)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)&nbsp;
+![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=ligthblue)&nbsp;
+![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=vscode&logoColor=ligthblue)&nbsp;
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp;
 
 <br />

@@ -43,7 +43,7 @@
 
 ### 🛠 Tools:
 
-![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)&nbsp;
+![Scrum](https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
@@ -51,7 +51,7 @@
 ![EsLint](https://img.shields.io/badge/-EsLint-333333?style=flat&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)&nbsp;
 ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=ligthblue)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode&logoColor=ligthblue)&nbsp;
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visualStudio&logoColor=ligthblue)&nbsp;
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp;
 
 <br />

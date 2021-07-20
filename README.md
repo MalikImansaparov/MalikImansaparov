@@ -5,14 +5,14 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
 
-## !I'm a Frontend Developer! [CV](https://malikimansaparov.github.io/rsschool-cv/)
+## I'm a Frontend Developer! 
 
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Javascript or any tech related stuff
 - ⚡ Fun fact: I’m a blind ten-digit printer
 
-### 🤝 Connect with me:
+### 🤝 Connect with me: [CV](https://malikimansaparov.github.io/rsschool-cv/)
 
 [<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]

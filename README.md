@@ -5,7 +5,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
 
-## I'm a Frontend Developer!
+## !I'm a Frontend Developer! [CV](https://malikimansaparov.github.io/rsschool-cv/)
 
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source

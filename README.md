@@ -54,8 +54,10 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode&logoColor=ligthblue)&nbsp;
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp;
 
-<br/>
+<br />
+
 ![alt rank](https://www.codewars.com/users/MalikImansaparov/badges/small) 
+
 <br/>
 
 <!-- <img height="160em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=malikimansaparov&theme=radical&show_icons=true" /> -->

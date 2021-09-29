@@ -60,10 +60,19 @@
 
 <br/>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikimansaparov&theme=algolia&layout=compacta&show_icons=true)
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikimansaparov&theme=algolia&layout=compacta&show_icons=true) -->
 
-<img height="160em" align="left" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malikimansaparov&theme=algolia&layout=compact" />
-<img align="right" width="430px" src="https://github-readme-streak-stats.herokuapp.com/?user=malikimansaparov&theme=algolia" alt="Malik's Github stats" />
+<table>
+  <tr>
+    <td>
+      <img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=malikimansaparov&theme=algolia" alt="Malik's Github stats" />
+    </td>
+    <td>
+      <img height="160em" align="left" alt="Malik's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malikimansaparov&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
+
 
 [telegram]: https://t.me/Egemberdiev7
 [instagram]: https://www.instagram.com/imansaparov7_99

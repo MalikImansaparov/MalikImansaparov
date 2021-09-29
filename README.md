@@ -59,11 +59,10 @@
 ![alt rank](https://www.codewars.com/users/MalikImansaparov/badges/small) 
 
 <br/>
-<div align="center">
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikimansaparov&theme=radical&layout=compact&show_icons=true)
-</div>
-<img height="160em" align="left" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malikimansaparov&theme=radical&layout=compact" />
-<img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=malikimansaparov&theme=compact" alt="Malik's Github stats" />
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikimansaparov&theme=radical&layout=algolia&show_icons=true)
+<img height="160em" align="left" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malikimansaparov&theme=radical&layout=algolia" />
+<img align="right" height="160em" width="430px" src="https://github-readme-streak-stats.herokuapp.com/?user=malikimansaparov&theme=algolia" alt="Malik's Github stats" />
 
 [telegram]: https://t.me/Egemberdiev7
 [instagram]: https://www.instagram.com/imansaparov7_99

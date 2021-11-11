@@ -59,6 +59,7 @@
 ![alt rank](https://www.codewars.com/users/MalikImansaparov/badges/small) 
 
 <br/>
+![snake gif](https://github.com/malikimansaparov/malikimansaparov/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikimansaparov&theme=algolia&layout=compacta&show_icons=true) -->
 

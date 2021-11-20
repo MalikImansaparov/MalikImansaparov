@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Javascript or any tech related stuff
-- ⚡ Fun fact: I’m a blind ten-digit printer
 
 ### 🤝 Connect with me:
 

@@ -76,7 +76,7 @@ Intemediate level experience in Software Engineer and  Frontned Mentor, with ext
 
 
 [telegram]: https://t.me/imansaparov
-[instagram]: https://www.instagram.com/imansaparov7_99
+[instagram]: https://www.instagram.com/m_imansaparov
 [linkedin]: https://www.linkedin.com/in/malik-imansaparov-591a88186/
 [facebook]: https://www.facebook.com/malik.imansaparov
 [vk]: https://m.vk.com/id440183588

@@ -34,10 +34,9 @@ Intemediate level experience in Software Engineer and  Frontned Mentor, with ext
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-333333?style=flat&logo=SASS)&nbsp;
 ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=materilui&logoColor=563D7C)&nbsp;
-![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)&nbsp;
-<!---![StyledComponetns](https://img.shields.io/badge/-StyledComponetns-333333?style=flat&logo=StyledComponetns)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=C21325)&nbsp;-->
+![StyledComponetns](https://img.shields.io/badge/-StyledComponetns-333333?style=flat&logo=StyledComponetns)&nbsp;
+<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=C21325)&nbsp;--> -->
 
 <br />
 

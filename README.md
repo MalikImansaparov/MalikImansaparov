@@ -55,7 +55,7 @@ Intemediate level experience in Software Engineer and  Frontned Mentor, with ext
 
 <br />
 
-[![Profile badge](https://www.codewars.com/users/MalikImansaparov/badges/large)](https://www.codewars.com/users/MalikImansaparov)
+[![Profile badge](https://www.codewars.com/users/Imansaparov/badges/small)](https://www.codewars.com/users/Imansaparov)
 
 <br/>
 <!-- ![snake gif](https://github.com/malikimansaparov/malikimansaparov/blob/output/github-contribution-grid-snake.svg) -->

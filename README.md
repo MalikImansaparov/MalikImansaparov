@@ -51,7 +51,7 @@ Intemediate level experience in Software Engineer and  Frontned Mentor, with ext
 ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)&nbsp;
 ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=ligthblue)&nbsp;
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visualStudio&logoColor=ligthblue)&nbsp;
-![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp;
+<!-- ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp; -->
 
 <br />
 

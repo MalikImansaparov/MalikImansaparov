@@ -31,26 +31,26 @@ Intemediate level experience in Software Engineer and  Frontned Mentor, with ext
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=C21325)&nbsp;
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp; -->
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-333333?style=flat&logo=SASS)&nbsp;
 ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=materilui&logoColor=563D7C)&nbsp;
 ![StyledComponetns](https://img.shields.io/badge/-StyledComponetns-333333?style=flat&logo=StyledComponetns)&nbsp;
-<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=C21325)&nbsp;--> 
+<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)&nbsp;--> 
 
-<br />
+<!-- <br />
 
-### 🛠 Tools:
+### 🛠 Tools: -->
 
 <!-- ![Scrum](https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+<!-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)&nbsp;
 ![EsLint](https://img.shields.io/badge/-EsLint-333333?style=flat&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)&nbsp;
 ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=ligthblue)&nbsp;
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visualStudio&logoColor=ligthblue)&nbsp;
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visualStudio&logoColor=ligthblue)&nbsp; -->
 <!-- ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp; -->
 
 <br />

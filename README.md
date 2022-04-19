@@ -30,14 +30,13 @@ Intemediate level experience in Software Engineer and  Frontned Mentor, with ext
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=C21325)&nbsp;
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp; -->
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-333333?style=flat&logo=SASS)&nbsp;
 ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=materilui&logoColor=563D7C)&nbsp;
 ![StyledComponetns](https://img.shields.io/badge/-StyledComponetns-333333?style=flat&logo=StyledComponetns)&nbsp;
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)&nbsp;--> 
-
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp; -->
 <!-- <br />
 
 ### 🛠 Tools: -->

@@ -10,7 +10,7 @@
 <!-- - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Javascript or any tech related stuff -->
-Intemediate level experience in Software Engineer and  Frontned Mentor, with extensive knowledge, and years of experience, working in popular web technologies
+<!-- Intemediate level experience in Software Engineer and  Frontned Mentor, with extensive knowledge, and years of experience, working in popular web technologies -->
 
 ### 🤝 Connect with me:
 

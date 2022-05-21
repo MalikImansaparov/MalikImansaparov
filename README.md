@@ -1,5 +1,7 @@
 <!--  -->
-
+<img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
+ width="480" height="320" />
+ 
 ### Hi, I'm Malik 👋
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
@@ -10,8 +12,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Javascript or any tech related stuff -->
 Intemediate level experience in Software Engineer and  Frontned Mentor, with extensive knowledge, and years of experience, working in popular web technologies
-<img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
- width="480" height="320" />
+
  
 ### 🤝 Connect with me:
 

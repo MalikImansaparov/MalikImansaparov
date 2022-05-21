@@ -1,6 +1,8 @@
 <!--  -->
-<img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
+<span align="right">
+<img  alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
  width="480" height="320" />
+ </span>
  
 ### Hi, I'm Malik 👋
 

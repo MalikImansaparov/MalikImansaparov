@@ -1,10 +1,8 @@
-<!--  -->
-<span align="right">
-<img  alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
+
+<img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
  width="480" height="320" />
- </span>
- 
-### Hi, I'm Malik 👋
+
+### Hi, I'm Malik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
 
@@ -13,7 +11,7 @@
 <!-- - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Javascript or any tech related stuff -->
-Intemediate level experience in Software Engineer and  Frontned Mentor, with extensive knowledge, and years of experience, working in popular web technologies
+Intemediate level experience in Software Engineer and \ Frontned Mentor, with extensive knowledge, \ and years of experience, working in popular web technologies
 
  
 ### 🤝 Connect with me:

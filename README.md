@@ -10,7 +10,7 @@
 - 💻 2+ Years Experience in Front-end Technologies
 - 👨‍💻 Front-end Enthusiast & Mentor
 - 📚 I’m currently learning Next.js 
-- ⚡ Fun fact: I’m interesting Biohacking and Calisthenics
+- ⚡ I’m interesting Biohacking and Calisthenics
  
 ### 🤝 Connect with me:
 

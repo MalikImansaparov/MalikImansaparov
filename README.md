@@ -2,15 +2,16 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
  width="380" height="220" />
  -->
-### Hi, I'm Malik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px">
+<!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px"> -->
+### Hi, I'm Malik 👋
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
 
 ## I'm a Frontend Developer!
-<!-- Intemediate level experience in Software Engineer and  
-Frontned Mentor, with extensive knowledge, and years  
-of experience, working in popular web technologies
- -->
+- 💻 2+ Years Experience in Front-end Technologies
+- 👨‍💻 Front-end Enthusiast & Mentor
+- 📚 I’m currently learning Next.js 
+- ⚡ Fun fact: I’m interesting Biohacking and Calisthenics
  
 ### 🤝 Connect with me:
 

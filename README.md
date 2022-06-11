@@ -10,7 +10,7 @@
 - 💻 2 Years Experience in Front-end Technologies
 - 👨‍💻 Front-end Enthusiast & Mentor
 - 📚 I’m currently learning Next.js 
-- ⚡ I’m interesting Biohacking and Calisthenics
+- ⚡ I'm the #100 contributor on Github in Kyrgyzstan
  
 ### 🤝 Connect with me:
 

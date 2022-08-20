@@ -7,8 +7,8 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
 
 ## I'm a Frontend Developer!
-- 💻 2 Years Experience in Front-end Technologies
-- 👨‍💻 Front-end Enthusiast & Mentor
+- 💻 2 Years Experience in Frontend Technologies
+- 👨‍💻 Frontend Enthusiast & Mentor
 - 📚 I’m currently learning Next.js 
 - ⚡ I'm the #100 contributor on Github in Kyrgyzstan
  

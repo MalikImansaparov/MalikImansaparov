@@ -9,8 +9,8 @@
 ## I'm a Frontend Developer!
 - 💻 2 Years Experience in Frontend Technologies
 - 👨‍💻 Frontend Enthusiast & Mentor
-- 📚 I’m currently learning Next.js 
 - ⚡ I'm the #100 contributor on Github in Kyrgyzstan
+- 📚 I’m currently learning Next.js 
  
 ### 🤝 Connect with me:
 

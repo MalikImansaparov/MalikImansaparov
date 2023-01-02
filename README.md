@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td>
-      <img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=malikimansaparov&theme=algolia" alt="Malik's Github stats" />
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=malikimansaparov&theme=algolia" alt="Malik's Github stats" />
     </td>
     <td>
       <img height="160em" align="left" alt="Malik's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malikimansaparov&theme=algolia&layout=compact" />

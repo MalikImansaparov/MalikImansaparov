@@ -10,7 +10,7 @@
 - 💻 2+ Years Experience in Frontend Technologies
 - 👨‍💻 Frontend Enthusiast & Mentor
 - ⚡ I'm the #100 contributor on Github in Kyrgyzstan
-- 📚 I’m currently learning Next.js 
+- 📚 I’m currently learning Node.js 
  
 ### 🤝 Connect with me:
 

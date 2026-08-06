@@ -9,9 +9,9 @@
 
 
 ## AI Frontend Developer
-🚀 5+ years with React, Next.js & TypeScript
-🤖 Generative AI integrations & AI-powered products
-🏆 Former Top 100 GitHub contributor in Kyrgyzstan
+- 🚀 5+ years with React, Next.js & TypeScript
+- 🤖 Generative AI integrations & AI-powered products
+- 🏆 Former Top 100 GitHub contributor in Kyrgyzstan
 
  
 ### 🤝 Connect with me:

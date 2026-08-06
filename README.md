@@ -8,11 +8,10 @@
 ### Hi, I'm Malik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-## I'm a Frontend Developer!
-- 💻 4+ Years Experience in Frontend Technologies
-- 👨‍💻 Tech mentor & Open-Source Contributor
-- 📚 I’m currently learning AI Engineering 
-- ⚡ Former Top 100 GitHub contributor in Kyrgyzstan
+## AI Frontend Developer
+🚀 5+ years with React, Next.js & TypeScript
+🤖 Generative AI integrations & AI-powered products
+🏆 Former Top 100 GitHub contributor in Kyrgyzstan
 
  
 ### 🤝 Connect with me:
@@ -21,6 +20,7 @@
 [<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="malik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 
 ### 💻 Tech Stack:
 

@@ -12,7 +12,7 @@
 - 🚀 5+ years with React, Next.js & TypeScript
 - 🤖 Generative AI integrations & AI-powered products
 - 🏆 Former Top 100 GitHub contributor in Kyrgyzstan
-
+- 🌍 Experience across AI, Fintech, EdTech, E-commerce & Logistics
  
 ### 🤝 Connect with me:
 

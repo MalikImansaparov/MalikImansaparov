@@ -5,14 +5,13 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
 
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px"> -->
-### Hi, I'm Malik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Frontend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-## AI Frontend Developer
 - 🚀 5+ years with React, Next.js & TypeScript
 - 🏆 Former Top 100 GitHub contributor in Kyrgyzstan
 - 🤖 Generative AI integrations & AI-powered products
-- 🌍 AI • Fintech • EdTech • E-commerce • Logistics
+
  
 ### 🤝 Connect with me:
 

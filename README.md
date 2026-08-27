@@ -73,7 +73,7 @@
 
 
 [telegram]: https://t.me/imansaparov
-[instagram]: https://www.instagram.com/m_imansaparov
+[instagram]: https://www.instagram.com/malik_iman7
 [linkedin]: https://www.linkedin.com/in/imansaparov
 
 

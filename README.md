@@ -60,7 +60,7 @@
 
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=imansaparov&theme=algolia&layout=compacta&show_icons=true) -->
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imansaparov&theme=algolia" alt="Malik's Github stats" />
@@ -69,7 +69,7 @@
       <img height="160em" align="left" alt="Malik's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imansaparov&theme=algolia&layout=compact" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
 [telegram]: https://t.me/imansaparov
